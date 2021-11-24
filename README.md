@@ -26,7 +26,7 @@ source env/Scripts/activate
    Nota: (env) user$ es la terminal correspondiente.
    
 ```bash
-(env) user$ pip install -r requeriments.txt
+(env) user$ pip install -r requirements.txt
 ```
 ### Obtener Quizz ID
 ___
