@@ -1,5 +1,5 @@
 ### Bestifey - Script
-Este es un pequeño programa que tiene la finalidad de obtener las respuestas de un quiz de Biestefy.
+Este es un pequeño programa que tiene la finalidad de obtener las respuestas de un quiz de Bestiefy.
 
 ## Requisitos:
 * Python 3.8 y superiores 
